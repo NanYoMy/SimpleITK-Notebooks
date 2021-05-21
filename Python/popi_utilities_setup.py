@@ -12,7 +12,8 @@ import numpy as np
 
 body_label = 0
 air_label = 1
-lung_label = 2    
+lung_label = 2
+myo_label= 1
 
 
 def read_POPI_points(file_name):
